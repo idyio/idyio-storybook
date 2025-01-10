@@ -40,7 +40,7 @@ export type SiteConfig = {
 const siteConfig: SiteConfig = {
     title: 'IDYIO FAQs',
     subtitle: 'Every journey deserves a masterpiece',
-    description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
+    description: 'Frequently asked questions about IDYIO',
     image: {
         src: '/dante-preview.jpg',
         alt: 'Dante - Astro.js and Tailwind CSS theme'
