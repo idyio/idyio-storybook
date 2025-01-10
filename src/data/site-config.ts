@@ -42,8 +42,8 @@ const siteConfig: SiteConfig = {
     subtitle: 'Every journey deserves a masterpiece',
     description: 'Frequently asked questions about IDYIO',
     image: {
-        src: '/dante-preview.jpg',
-        alt: 'Dante - Astro.js and Tailwind CSS theme'
+        src: '/post-3.jpg',
+        alt: 'IDYIO FAQs'
     },
     headerNavLinks: [
         {
