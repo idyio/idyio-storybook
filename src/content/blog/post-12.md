@@ -22,7 +22,7 @@ Advancing your IDYIO membership is easy and can be done through three flexible m
 | **Upgrade Path**               | **Upgrade Requirement** |
 | ------------------------------ | ----------------------- |
 | The Guest → The Voyageur       | USD 299                 |
-| The Voyageur → The Connoisseur | USD 1,169               |
+| The Voyageur → The Connoisseur | USD 169                 |
 
 #### **3. By Referrals**
 
