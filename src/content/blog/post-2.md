@@ -4,7 +4,7 @@ excerpt: Easily create your account by following these steps to get started with
 publishDate: 'Jan 10 2025'
 tags:
   - Account Management
-  - Elite Status and Membership
+  - IDYIO Club and Elite Status
 isFeatured: true
 ---
 

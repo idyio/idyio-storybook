@@ -4,7 +4,7 @@ excerpt: Understand how your payment method is verified and how it impacts your 
 publishDate: 'Jan 10 2025'
 tags:
   - Account Management
-  - Elite Status and Membership
+  - IDYIO Club and Elite Status
 # seo:
 #   image:
 #     src: '/post-5.jpg'

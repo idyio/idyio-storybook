@@ -3,8 +3,7 @@ title: What Can I Find in the Membership Center?
 excerpt: Discover the benefits and perks available to you as a member.
 publishDate: 'Jan 10 2025'
 tags:
-  - Elite Status and Membership
-isFeatured: true
+  - IDYIO Club and Elite Status
 ---
 
 The Membership Center lets you:
